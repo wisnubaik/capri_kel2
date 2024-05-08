@@ -1,28 +1,30 @@
 # Nama Aplikasi
-> Catatan Pribadi
+> Capri
+> Aplikasi "catatan pribadi" adalah aplikasi yang dirancang untuk membantu pengguna mencatat dan mengatur berbagai informasi pribadi mereka. Yang mencakup catatan teks, daftar tugas, pengingat, jadwal, dan banyak lagi. 
 
 ## featur
 Sprint 1
 * Catatan
-* Pengingat
-* Arsip
-* Sampah
+* Pengingat Catatan
+* Arsip Catatan
+* Sampah Catatan
 
 ## Keterangan Folder
-> Desain 
+> Desain
 > Aplikasi
-> Documentasi
+> Dokumentasi
 
 ### Requirements
 
-* laravel
-* composer 1.9+
+* Laravel
+* Composer
 
 ### Installation
 > cara instalasi
 
 ## [Usage](#usage)
 > 
+
 
 ## [Configuration](#configuration)
 > konfigurasi yang dibutuhkan jika ada
