@@ -7,9 +7,8 @@ Sprint 1
 * Halaman Login
   1. tambah nama
   2. tambah email
-  3. tambah gambar
-  4. tambah password
-  5. ulangi password
+  3. tambah password
+  4. ulangi password
   
 * Halaman Utama
   1. Tambah catatan
