@@ -4,19 +4,25 @@
 
 ## featur
 Sprint 1
-* Catatan (1 halaman)
-  1. tambah catatan
-  2. hapus catatan
+* Halaman Login
+  1. tambah nama
+  2. tambah email
   3. tambah gambar
-  4. tambah background
-  5. simpan catatan
-  6. menampilkan pengingat (halaman baru)
-     
-* Pengingat Catatan (1 halaman)
-  1. menampilkan hari
-  2. menampilkan tanggal
-  3. menampilkan waktu
+  4. tambah password
+  5. ulangi password
+  
+* Halaman Utama
+  1. Tambah catatan
+  2. Hapus Catatan
+  3. Simpan Catatan (simpan, draf)
+  4. Tambah background
 
+* Halaman Pengingat
+  1. Hari
+  2. Tanggal
+  3. Waktu
+
+     
 ## Keterangan Folder
 > Desain
 > Aplikasi
